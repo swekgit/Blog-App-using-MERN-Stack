@@ -1,2 +1,6 @@
-# Blog-App-using-MERN-Stack
-A blog app that enables you to create blogs
+# mern-stack-blog-app
+complete mern stack blog application source code 2023
+
+# please check branches more code coming soon !
+Dont forgot follow on github as well 
+##  thanks for watching techinfoyt
